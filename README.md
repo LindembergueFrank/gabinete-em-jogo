@@ -1,5 +1,7 @@
 # Gabinete em Jogo
 
+Jogo criado com auxílio de IA.
+
 Jogo de plataforma para navegador, com um investigador fictício que coleta documentos sobre casos envolvendo Flávio Bolsonaro. A sátira usa obstáculos fictícios; as fichas apresentam fontes e distinguem acusações de decisões judiciais.
 
 [Jogar a versão atual](https://gabinete-em-jogo.lindemberg-frank.chatgpt.site)
@@ -33,6 +35,8 @@ HTML, CSS e JavaScript sem dependências de execução, login, rastreamento ou s
 Após enviar o projeto ao repositório, selecione **Settings → Pages → Build and deployment → Source → GitHub Actions**. O workflow publica `dist` em cada push para `main`, ou manualmente pela aba Actions. A disponibilidade de Pages em repositório privado depende do plano da conta; um repositório público permite a distribuição pública no plano gratuito.
 
 ## Fontes e critérios editoriais
+
+Veja [FONTES.md](FONTES.md) para a lista das fontes utilizadas, referências auxiliares, créditos de arte e o alcance de cada documento.
 
 Fontes consultadas em 07/10/2026:
 
